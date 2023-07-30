@@ -13,23 +13,6 @@ This is a simple To-Do Web Application built using HTML, CSS, and JavaScript. Th
 - Edit tasks: Modify task content when needed.
 - Delete tasks: Remove tasks from the list.
 
-## Getting Started
-
-1. Clone the repository:
-
-```
-git clone https://github.com/GauriPatil96k/LGMVIP-Web-Task_1-To-Do_list
-.git
-```
-
-2. Navigate to the project folder:
-
-```
-cd todo-web-app
-```
-
-3. Open `index.html` in your preferred web browser.
-
 ## Usage
 
 - **Adding a Task**: Type the task description in the input field at the top and press the "Add" button or hit Enter to add it to the list.
